@@ -1,0 +1,185 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CreateCPK", "CreateCPK\CreateCPK.vdproj", "{CFB28FB1-9CA2-445F-8B70-2D02A7860AD1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CreatePlots", "CreatePlots\CreatePlots.vdproj", "{8884BCDA-D97F-4455-AF6F-0BCE78241D09}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExtendedMVT", "ExtendedMVT\ExtendedMVT.vdproj", "{FA7AD295-A646-46BF-BDEF-4E90DCFAD5BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "JslGenerator", "JslGenerator\JslGenerator.vdproj", "{CBDCCE4B-6B9E-4997-8467-32C20EA2A02D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Xml2Csv", "Xml2Csv\Xml2Csv.vdproj", "{A7B9FE7D-CDE0-44FF-A35B-D00C9866B974}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ddr5G", "ddr5G\ddr5G.vdproj", "{F70B67F6-A7ED-4F2A-8553-6FF06FD194AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CreateWaferMap", "CreateWaferMap\CreateWaferMap.vdproj", "{81DF9BE2-1A33-4D39-B2EB-A062F56FF056}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMonitorMQI", "SetupMonitorMQI\SetupMonitorMQI.vdproj", "{559D8DB1-7167-41A9-B8F4-9C91B32BAEC1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ddr5GUI", "ddr5GUI\ddr5GUI.vdproj", "{A4BAB643-BD32-44C2-B8CE-9B23675F739A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GetFolderNames", "GetFolderNames\GetFolderNames.vdproj", "{02013A8E-C578-4A05-9922-C173C5650596}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GetFileNames", "GetFileNames\GetFileNames.vdproj", "{3FC887D0-DE17-47A3-A7F7-408281B03751}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDDR", "SetupDDR\SetupDDR.vdproj", "{368A37EB-1838-4E54-BAEE-56CB1BBE0168}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CountFolders", "CountFolders\CountFolders.vdproj", "{03131D9B-64C9-4999-8436-9A5CAF3826B1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InsertChildNodeToUUT", "InsertChildNodeToUUT\InsertChildNodeToUUT.vdproj", "{4B620772-1020-4145-9088-F2AAABA57799}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AddColumnToCsv", "AddColumnToCsv\AddColumnToCsv.vdproj", "{8D9FA992-6810-4E5A-9334-1A0CF71160D1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BrowseSTDF", "BrowseSTDF\BrowseSTDF.vdproj", "{ABA53E6B-4D97-499E-89B3-5F0728007707}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "gzMiner", "gzMiner\gzMiner.vdproj", "{D303BF21-7361-4FA6-BAC1-9B29BD1507CA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExtendZips", "ExtendZips\ExtendZips.vdproj", "{FB3078FA-F504-4152-9575-01A01DB0F9FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZipFolders", "ZipFolders\ZipFolders.vdproj", "{8E93E553-B123-4351-AFB6-AFFE13CB0BD5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Clocks", "Clocks\Clocks.vdproj", "{CE58C4A3-180C-4078-AD28-83EACDAEB7F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CalculatedWeeklyVolume", "CalculatedWeeklyVolume\CalculatedWeeklyVolume.vdproj", "{940BF54B-BB00-4935-8C97-85D283CF87CD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlotsOnClick", "PlotsOnClick\PlotsOnClick.vdproj", "{3460C795-98EB-4FF8-ADDA-E054E7ED6B80}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AnalyzeTestTime", "AnalyzeTestTime\AnalyzeTestTime.vdproj", "{70EC5BB6-74A9-43B4-A335-31D3FAF7EC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB28FB1-9CA2-445F-8B70-2D02A7860AD1}.Debug|Default.ActiveCfg = Debug
+		{CFB28FB1-9CA2-445F-8B70-2D02A7860AD1}.Debug|Default.Build.0 = Debug
+		{CFB28FB1-9CA2-445F-8B70-2D02A7860AD1}.Release|Default.ActiveCfg = Release
+		{CFB28FB1-9CA2-445F-8B70-2D02A7860AD1}.Release|Default.Build.0 = Release
+		{8884BCDA-D97F-4455-AF6F-0BCE78241D09}.Debug|Default.ActiveCfg = Debug
+		{8884BCDA-D97F-4455-AF6F-0BCE78241D09}.Release|Default.ActiveCfg = Release
+		{FA7AD295-A646-46BF-BDEF-4E90DCFAD5BF}.Debug|Default.ActiveCfg = Debug
+		{FA7AD295-A646-46BF-BDEF-4E90DCFAD5BF}.Release|Default.ActiveCfg = Release
+		{CBDCCE4B-6B9E-4997-8467-32C20EA2A02D}.Debug|Default.ActiveCfg = Debug
+		{CBDCCE4B-6B9E-4997-8467-32C20EA2A02D}.Release|Default.ActiveCfg = Release
+		{A7B9FE7D-CDE0-44FF-A35B-D00C9866B974}.Debug|Default.ActiveCfg = Debug
+		{A7B9FE7D-CDE0-44FF-A35B-D00C9866B974}.Release|Default.ActiveCfg = Release
+		{F70B67F6-A7ED-4F2A-8553-6FF06FD194AB}.Debug|Default.ActiveCfg = Debug
+		{F70B67F6-A7ED-4F2A-8553-6FF06FD194AB}.Release|Default.ActiveCfg = Release
+		{81DF9BE2-1A33-4D39-B2EB-A062F56FF056}.Debug|Default.ActiveCfg = Debug
+		{81DF9BE2-1A33-4D39-B2EB-A062F56FF056}.Release|Default.ActiveCfg = Release
+		{559D8DB1-7167-41A9-B8F4-9C91B32BAEC1}.Debug|Default.ActiveCfg = Debug
+		{559D8DB1-7167-41A9-B8F4-9C91B32BAEC1}.Release|Default.ActiveCfg = Release
+		{A4BAB643-BD32-44C2-B8CE-9B23675F739A}.Debug|Default.ActiveCfg = Debug
+		{A4BAB643-BD32-44C2-B8CE-9B23675F739A}.Release|Default.ActiveCfg = Release
+		{02013A8E-C578-4A05-9922-C173C5650596}.Debug|Default.ActiveCfg = Debug
+		{02013A8E-C578-4A05-9922-C173C5650596}.Release|Default.ActiveCfg = Release
+		{3FC887D0-DE17-47A3-A7F7-408281B03751}.Debug|Default.ActiveCfg = Debug
+		{3FC887D0-DE17-47A3-A7F7-408281B03751}.Release|Default.ActiveCfg = Release
+		{368A37EB-1838-4E54-BAEE-56CB1BBE0168}.Debug|Default.ActiveCfg = Debug
+		{368A37EB-1838-4E54-BAEE-56CB1BBE0168}.Release|Default.ActiveCfg = Release
+		{03131D9B-64C9-4999-8436-9A5CAF3826B1}.Debug|Default.ActiveCfg = Debug
+		{03131D9B-64C9-4999-8436-9A5CAF3826B1}.Release|Default.ActiveCfg = Release
+		{4B620772-1020-4145-9088-F2AAABA57799}.Debug|Default.ActiveCfg = Debug
+		{4B620772-1020-4145-9088-F2AAABA57799}.Release|Default.ActiveCfg = Release
+		{8D9FA992-6810-4E5A-9334-1A0CF71160D1}.Debug|Default.ActiveCfg = Debug
+		{8D9FA992-6810-4E5A-9334-1A0CF71160D1}.Release|Default.ActiveCfg = Release
+		{ABA53E6B-4D97-499E-89B3-5F0728007707}.Debug|Default.ActiveCfg = Debug
+		{ABA53E6B-4D97-499E-89B3-5F0728007707}.Release|Default.ActiveCfg = Release
+		{D303BF21-7361-4FA6-BAC1-9B29BD1507CA}.Debug|Default.ActiveCfg = Debug
+		{D303BF21-7361-4FA6-BAC1-9B29BD1507CA}.Release|Default.ActiveCfg = Release
+		{FB3078FA-F504-4152-9575-01A01DB0F9FD}.Debug|Default.ActiveCfg = Debug
+		{FB3078FA-F504-4152-9575-01A01DB0F9FD}.Release|Default.ActiveCfg = Release
+		{8E93E553-B123-4351-AFB6-AFFE13CB0BD5}.Debug|Default.ActiveCfg = Debug
+		{8E93E553-B123-4351-AFB6-AFFE13CB0BD5}.Release|Default.ActiveCfg = Release
+		{CE58C4A3-180C-4078-AD28-83EACDAEB7F1}.Debug|Default.ActiveCfg = Debug
+		{CE58C4A3-180C-4078-AD28-83EACDAEB7F1}.Release|Default.ActiveCfg = Release
+		{940BF54B-BB00-4935-8C97-85D283CF87CD}.Debug|Default.ActiveCfg = Debug
+		{940BF54B-BB00-4935-8C97-85D283CF87CD}.Release|Default.ActiveCfg = Release
+		{3460C795-98EB-4FF8-ADDA-E054E7ED6B80}.Debug|Default.ActiveCfg = Debug
+		{3460C795-98EB-4FF8-ADDA-E054E7ED6B80}.Release|Default.ActiveCfg = Release
+		{70EC5BB6-74A9-43B4-A335-31D3FAF7EC74}.Debug|Default.ActiveCfg = Debug
+		{70EC5BB6-74A9-43B4-A335-31D3FAF7EC74}.Release|Default.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 24
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs2012af002.intel.com/tfs/defaultcollection_tfs02
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CreateCPK\\CreateCPK.vdproj
+		SccProjectName1 = CreateCPK
+		SccLocalPath1 = CreateCPK
+		SccProjectUniqueName2 = CreatePlots\\CreatePlots.vdproj
+		SccProjectName2 = CreatePlots
+		SccLocalPath2 = CreatePlots
+		SccProjectUniqueName3 = ExtendedMVT\\ExtendedMVT.vdproj
+		SccProjectName3 = ExtendedMVT
+		SccLocalPath3 = ExtendedMVT
+		SccProjectUniqueName4 = JslGenerator\\JslGenerator.vdproj
+		SccProjectName4 = JslGenerator
+		SccLocalPath4 = JslGenerator
+		SccProjectUniqueName5 = Xml2Csv\\Xml2Csv.vdproj
+		SccProjectName5 = Xml2Csv
+		SccLocalPath5 = Xml2Csv
+		SccProjectUniqueName6 = ddr5G\\ddr5G.vdproj
+		SccProjectName6 = ddr5G
+		SccLocalPath6 = ddr5G
+		SccProjectUniqueName7 = CreateWaferMap\\CreateWaferMap.vdproj
+		SccProjectName7 = CreateWaferMap
+		SccLocalPath7 = CreateWaferMap
+		SccProjectUniqueName8 = SetupMonitorMQI\\SetupMonitorMQI.vdproj
+		SccProjectName8 = SetupMonitorMQI
+		SccLocalPath8 = SetupMonitorMQI
+		SccProjectUniqueName9 = ddr5GUI\\ddr5GUI.vdproj
+		SccProjectName9 = ddr5GUI
+		SccLocalPath9 = ddr5GUI
+		SccProjectUniqueName10 = GetFolderNames\\GetFolderNames.vdproj
+		SccProjectName10 = GetFolderNames
+		SccLocalPath10 = GetFolderNames
+		SccProjectUniqueName11 = GetFileNames\\GetFileNames.vdproj
+		SccProjectName11 = GetFileNames
+		SccLocalPath11 = GetFileNames
+		SccProjectUniqueName12 = SetupDDR\\SetupDDR.vdproj
+		SccProjectName12 = SetupDDR
+		SccLocalPath12 = SetupDDR
+		SccProjectUniqueName13 = CountFolders\\CountFolders.vdproj
+		SccProjectName13 = CountFolders
+		SccLocalPath13 = CountFolders
+		SccProjectUniqueName14 = InsertChildNodeToUUT\\InsertChildNodeToUUT.vdproj
+		SccProjectName14 = InsertChildNodeToUUT
+		SccLocalPath14 = InsertChildNodeToUUT
+		SccProjectUniqueName15 = AddColumnToCsv\\AddColumnToCsv.vdproj
+		SccProjectName15 = AddColumnToCsv
+		SccLocalPath15 = AddColumnToCsv
+		SccProjectUniqueName16 = BrowseSTDF\\BrowseSTDF.vdproj
+		SccProjectName16 = BrowseSTDF
+		SccLocalPath16 = BrowseSTDF
+		SccProjectUniqueName17 = gzMiner\\gzMiner.vdproj
+		SccProjectName17 = gzMiner
+		SccLocalPath17 = gzMiner
+		SccProjectUniqueName18 = ExtendZips\\ExtendZips.vdproj
+		SccProjectName18 = ExtendZips
+		SccLocalPath18 = ExtendZips
+		SccProjectUniqueName19 = ZipFolders\\ZipFolders.vdproj
+		SccProjectName19 = ZipFolders
+		SccLocalPath19 = ZipFolders
+		SccProjectUniqueName20 = Clocks\\Clocks.vdproj
+		SccProjectName20 = Clocks
+		SccLocalPath20 = Clocks
+		SccProjectUniqueName21 = CalculatedWeeklyVolume\\CalculatedWeeklyVolume.vdproj
+		SccProjectName21 = CalculatedWeeklyVolume
+		SccLocalPath21 = CalculatedWeeklyVolume
+		SccProjectUniqueName22 = PlotsOnClick\\PlotsOnClick.vdproj
+		SccProjectName22 = PlotsOnClick
+		SccLocalPath22 = PlotsOnClick
+		SccProjectUniqueName23 = AnalyzeTestTime\\AnalyzeTestTime.vdproj
+		SccProjectName23 = AnalyzeTestTime
+		SccLocalPath23 = AnalyzeTestTime
+	EndGlobalSection
+EndGlobal

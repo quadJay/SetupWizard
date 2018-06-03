@@ -1,0 +1,3198 @@
+﻿"DeployProject"
+{
+"VSVersion" = "3:800"
+"ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:ExtendedMVT"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"UILanguageId" = "3:1033"
+"SccProjectName" = "8:SAK"
+"SccLocalPath" = "8:SAK"
+"SccAuxPath" = "8:SAK"
+"SccProvider" = "8:SAK"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_0148C57EC2154A5EA11B32436EBAB18C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0164F83066984E8198D613673B36767F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_084F45D5BC204518BCEF9FA1A13C84C5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0D7F62E266DF4788A5C0BCD886E00DC6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0E911816069242EC96A262D054C52638"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0FA75C0451434671ACA6971EEBB0BAFD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_107BF51295144E4EBD737AB7D5A52991"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1B1B8CF54CB048009EC9FABDAFCA9F60"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1F3CF54F275140CC86D8964DEBA91328"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_22B9A459A057423492C2E5FB53ECBD1C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_258ABD27650A4B9C81FD9F63F3436B2A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_27339CF0856248FB9BD476BFADBCABE8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_28293DD719084675B752BBFF298FF2AB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2CF1B6E99A714F6C88C4648494BAF882"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_309303E755093CF66F5CBBAF45D70D2E"
+        "OwnerKey" = "8:_D5664658A27BEAEE2897C50F15ED7881"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_309303E755093CF66F5CBBAF45D70D2E"
+        "OwnerKey" = "8:_E5539F6493C410CB3E291535C52DE8E2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_309303E755093CF66F5CBBAF45D70D2E"
+        "OwnerKey" = "8:_57A2B36C5C2F445BA027FDAE14D2F614"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_36AB606650434B80B645D5D71912BA88"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_398FE4773AA0443D908B9369D546C4EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_48FA9324A5F84E2CB156E26690AF971D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4BB26A90DA6143BAA5D4ED4C507A10F3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4BB72A6D60664068B164A39554D685E0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_50F6FA61ABD740D696413683D3B8539D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_54B00088A57244799ACA5062004105CC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_54D6E91FC88645BF8D6C045106E084B7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_565FE1C5EC684A1196FC9C5837A995A5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_57A2B36C5C2F445BA027FDAE14D2F614"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_584470719A4B416285573B5F6E39786E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_587A373696024D0DA437A8DFB2C5C99D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_613A87D51FDD459B89EF81FB8A37CB76"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_62364CE6E81941A3A5CFDB6DFB39692B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6653037049D74CD3BD930448569AC5E6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_66F88F7276E149269B04B2643B76D9CA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_683C2800174C474F81510CA3D7B5F77A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_68D9828EBE46480A8A9F01CABE949562"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6EEE6D1F8AE849889B614A5D26D57D58"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6F1F0F4A336E446CB81454DD25AD1782"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_76B80BB4DDD744E49FA3F3CD050D0BC0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_773C3729F94E44399B693FFD3CD35F20"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7A14F004EA2B45A3AF40FE06D1B699BC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_84F3BE1F08294CBC9BF52FA853639832"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_85A73ED5CD614166B0C0967DBAD18BF3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8709DB955E6648FE9C40BC6E56B54CD0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_87334BE1D2524811B6ABEF70BA83A924"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_881B3380F6C848A1BFAFAB294F036A6F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_92A2F5AF86EE418E89ED5A7CDEE99106"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_988D8C7883DF4A17911FE3D940DC32FC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9A8EAD973A844FAEAEB079A75E76DFFB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9D7CEFDAA45E4ACA8588EC863F0FF1DE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A044C991670548D48A6F59819EF4F613"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A0F9D7EC99BF4432A1B8E696DCD11196"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A43D7D5BDBF741F0BF571DD6F5359998"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A4F74BA1A386473292EF6C3385A22726"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5687882F8AF437DA3DD84D3A36F27F8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AB379A97394A4910A91C4F951FACA039"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B774962A027E43E792FA94E9F8C53B26"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B943CCE2BDA2408CB6682104121BF946"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BA6B47623304442391B13D845A0050C8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C24E778960A344F39991F2A06584CEB1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C463A7ADE8524A85A753F21BE5EDE747"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C66DCCC426FC4068AC715D657177914B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C9EA1A1D9498485D90C07D5024C55D2F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CDD0998E17BD46F7B60CF28436125971"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CDF9BD26DA1B451AB3C2297108F54EAD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CE809CF4BB5F442797C72D1826D74DB6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D0DB83ED941649B09B7464CB4FD97E25"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D2DE5105A2A14567953432C882422A28"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D31EA3001CDC4611BBC32A56C0FB5CEC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D40168FA2220409CA4016DDA5053D37D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D49BE4B7866C4633AD261EC22253883F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5664658A27BEAEE2897C50F15ED7881"
+        "OwnerKey" = "8:_57A2B36C5C2F445BA027FDAE14D2F614"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5664658A27BEAEE2897C50F15ED7881"
+        "OwnerKey" = "8:_E5539F6493C410CB3E291535C52DE8E2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D6379CB8600240F18F25EACE78BAB12E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D6D97D59285044E8AD9903A49CF98CEC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D7CFD95C770C49EABFBDDDA59D668652"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D8F08EAA8B6F400DB63A903837AE5A8C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D910EB4E5A0C438B9E8A4B5292FD06BE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DBE4B79BA82D44F587A616064442B60A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DF8E05AE30A942409276F7C5170CC043"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E2A96FD13803477C9237F5FBB46E9E4F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E5539F6493C410CB3E291535C52DE8E2"
+        "OwnerKey" = "8:_50F6FA61ABD740D696413683D3B8539D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E570F2966E7A49E2A47DA806B356FCA9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E68039A57BCB45EBB8817AA6605B1036"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E85FF4910E29463A95647CF8DD3A393D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EC046FC0C648409B83E644D0017D9193"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F18B9891D53B427583994051E72D7683"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F6C95067E1D044BA812F4E1609147CFB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FB7C130484B045ECA5B42991950598EC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FBBA346AB2D4408CBEAB3F1E80DD3B13"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FE96456DABC14A48AC7B745E91A87ECC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_309303E755093CF66F5CBBAF45D70D2E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E5539F6493C410CB3E291535C52DE8E2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_50F6FA61ABD740D696413683D3B8539D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_57A2B36C5C2F445BA027FDAE14D2F614"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D5664658A27BEAEE2897C50F15ED7881"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\ExtendedMVT.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\ExtendedMVT.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
+        }
+    }
+    "Deployable"
+    {
+        "CustomAction"
+        {
+        }
+        "DefaultFeature"
+        {
+        "Name" = "8:DefaultFeature"
+        "Title" = "8:"
+        "Description" = "8:"
+        }
+        "ExternalPersistence"
+        {
+            "LaunchCondition"
+            {
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_3B173D097E6A4A948FD8122EE1051E6D"
+                {
+                "Name" = "8:.NET Framework"
+                "Message" = "8:[VSDNETMSG]"
+                "FrameworkVersion" = "8:.NETFramework,Version=v4.5"
+                "AllowLaterVersions" = "11:FALSE"
+                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=395269"
+                }
+            }
+        }
+        "File"
+        {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0148C57EC2154A5EA11B32436EBAB18C"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_BT_RX_BER_TEST.jsl"
+            "TargetName" = "8:PLOT_BT_RX_BER_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0164F83066984E8198D613673B36767F"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_084F45D5BC204518BCEF9FA1A13C84C5"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_TEST_TX_POWER_DIFF_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_TX_POWER_DIFF_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0D7F62E266DF4788A5C0BCD886E00DC6"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0E911816069242EC96A262D054C52638"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0FA75C0451434671ACA6971EEBB0BAFD"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_107BF51295144E4EBD737AB7D5A52991"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B1B8CF54CB048009EC9FABDAFCA9F60"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\IntelLogo.ico"
+            "TargetName" = "8:IntelLogo.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F3CF54F275140CC86D8964DEBA91328"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_LO_CALIBRATION_GAIN.jsl"
+            "TargetName" = "8:PLOT_WIGIG_LO_CALIBRATION_GAIN.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_22B9A459A057423492C2E5FB53ECBD1C"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_BT_TX_TEST_EDR.jsl"
+            "TargetName" = "8:PLOT_BT_TX_TEST_EDR.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_258ABD27650A4B9C81FD9F63F3436B2A"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_RX_TEST_SENSITIVITY_Workorder.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_Workorder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_27339CF0856248FB9BD476BFADBCABE8"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_28293DD719084675B752BBFF298FF2AB"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_TX_PER_TEST_EVM.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_TX_PER_TEST_EVM.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2CF1B6E99A714F6C88C4648494BAF882"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_309303E755093CF66F5CBBAF45D70D2E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_309303E755093CF66F5CBBAF45D70D2E"
+                    {
+                    "Name" = "8:System.IO.Compression.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.IO.Compression.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_36AB606650434B80B645D5D71912BA88"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_398FE4773AA0443D908B9369D546C4EF"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_48FA9324A5F84E2CB156E26690AF971D"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4BB26A90DA6143BAA5D4ED4C507A10F3"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4BB72A6D60664068B164A39554D685E0"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_50F6FA61ABD740D696413683D3B8539D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ExtendedMVT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_50F6FA61ABD740D696413683D3B8539D"
+                    {
+                    "Name" = "8:ExtendedMVT.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:N:\\ExtendedMVT\\ExtendedMVT.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_54B00088A57244799ACA5062004105CC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_54D6E91FC88645BF8D6C045106E084B7"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_565FE1C5EC684A1196FC9C5837A995A5"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ExtendedMVT.exe.config"
+            "TargetName" = "8:ExtendedMVT.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_57A2B36C5C2F445BA027FDAE14D2F614"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DDR_Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_57A2B36C5C2F445BA027FDAE14D2F614"
+                    {
+                    "Name" = "8:DDR_Helper.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:N:\\ExtendedMVT\\DDR_Helper.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_584470719A4B416285573B5F6E39786E"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY.jsl"
+            "TargetName" = "8:PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_587A373696024D0DA437A8DFB2C5C99D"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_613A87D51FDD459B89EF81FB8A37CB76"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_SISO_EVM_TEST_W_CALIB.jsl"
+            "TargetName" = "8:PLOT_WIFI_SISO_EVM_TEST_W_CALIB.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_62364CE6E81941A3A5CFDB6DFB39692B"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6653037049D74CD3BD930448569AC5E6"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66F88F7276E149269B04B2643B76D9CA"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_BT_TX_TEST.jsl"
+            "TargetName" = "8:PLOT_BT_TX_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_683C2800174C474F81510CA3D7B5F77A"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_68D9828EBE46480A8A9F01CABE949562"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_TX_PER_TEST_TX_PER.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_TX_PER_TEST_TX_PER.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6EEE6D1F8AE849889B614A5D26D57D58"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6F1F0F4A336E446CB81454DD25AD1782"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_76B80BB4DDD744E49FA3F3CD050D0BC0"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_773C3729F94E44399B693FFD3CD35F20"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_TX_PER_TEST_RSSI.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_TX_PER_TEST_RSSI.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7A14F004EA2B45A3AF40FE06D1B699BC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_84F3BE1F08294CBC9BF52FA853639832"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_CURRENT_TEST.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_CURRENT_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_85A73ED5CD614166B0C0967DBAD18BF3"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_Workorder.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_Workorder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8709DB955E6648FE9C40BC6E56B54CD0"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_87334BE1D2524811B6ABEF70BA83A924"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_IDLE_CURRENT_TEST.jsl"
+            "TargetName" = "8:PLOT_WIFI_IDLE_CURRENT_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_881B3380F6C848A1BFAFAB294F036A6F"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\DDR_Helper.pdb"
+            "TargetName" = "8:DDR_Helper.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_92A2F5AF86EE418E89ED5A7CDEE99106"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_988D8C7883DF4A17911FE3D940DC32FC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9A8EAD973A844FAEAEB079A75E76DFFB"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_TX_PER_TEST_FOE.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_TX_PER_TEST_FOE.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9D7CEFDAA45E4ACA8588EC863F0FF1DE"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A044C991670548D48A6F59819EF4F613"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A0F9D7EC99BF4432A1B8E696DCD11196"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_RX_CURRENT_TEST.jsl"
+            "TargetName" = "8:PLOT_WIGIG_RX_CURRENT_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A43D7D5BDBF741F0BF571DD6F5359998"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_Workorder.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_Workorder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A4F74BA1A386473292EF6C3385A22726"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_DCDC_SPUR_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5687882F8AF437DA3DD84D3A36F27F8"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_TEST_TX_POWER_DIFF_WorkOrder.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_TX_POWER_DIFF_WorkOrder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AB379A97394A4910A91C4F951FACA039"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_RX_PER_TEST_EVM.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_RX_PER_TEST_EVM.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B774962A027E43E792FA94E9F8C53B26"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_RX_CURRENT_TEST.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_CURRENT_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B943CCE2BDA2408CB6682104121BF946"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HRP1216SD\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_ACFE002F929F4691A8FAAB7E6C39C86D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA6B47623304442391B13D845A0050C8"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_LO_CALIBRATION_ACTUAL_POWER.jsl"
+            "TargetName" = "8:PLOT_WIGIG_LO_CALIBRATION_ACTUAL_POWER.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C24E778960A344F39991F2A06584CEB1"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_CURRENT_MODULATED_TEST.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_CURRENT_MODULATED_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C463A7ADE8524A85A753F21BE5EDE747"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_RX_PER_TEST_SENSITIVITY.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_RX_PER_TEST_SENSITIVITY.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C66DCCC426FC4068AC715D657177914B"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C9EA1A1D9498485D90C07D5024C55D2F"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CDD0998E17BD46F7B60CF28436125971"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_POWER_VERIFICATION.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_POWER_VERIFICATION.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CDF9BD26DA1B451AB3C2297108F54EAD"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_TEST_EVM_WorkOrder.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_WorkOrder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CE809CF4BB5F442797C72D1826D74DB6"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D0DB83ED941649B09B7464CB4FD97E25"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_RX_PER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D2DE5105A2A14567953432C882422A28"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_TEST_TX_POWER_DIFF_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_TX_POWER_DIFF_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D31EA3001CDC4611BBC32A56C0FB5CEC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_OFDM_SATURATION_TEST.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D40168FA2220409CA4016DDA5053D37D"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D49BE4B7866C4633AD261EC22253883F"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D5664658A27BEAEE2897C50F15ED7881"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D5664658A27BEAEE2897C50F15ED7881"
+                    {
+                    "Name" = "8:System.IO.Compression.FileSystem.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.IO.Compression.FileSystem.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D6379CB8600240F18F25EACE78BAB12E"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_RX_PER_TEST_RSSI.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_RX_PER_TEST_RSSI.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D6D97D59285044E8AD9903A49CF98CEC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ExtendedMVT.pdb"
+            "TargetName" = "8:ExtendedMVT.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7CFD95C770C49EABFBDDDA59D668652"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_OFDM_SATURATION_TEST_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D8F08EAA8B6F400DB63A903837AE5A8C"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_TX_PER_TEST_POWER.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_TX_PER_TEST_POWER.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D910EB4E5A0C438B9E8A4B5292FD06BE"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DBE4B79BA82D44F587A616064442B60A"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_TX_CURRENT_TEST.jsl"
+            "TargetName" = "8:PLOT_WIGIG_TX_CURRENT_TEST.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF8E05AE30A942409276F7C5170CC043"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E2A96FD13803477C9237F5FBB46E9E4F"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_SISO_RX_PER_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3568EDAA50AF4AA1A1B1048D5B551760"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E5539F6493C410CB3E291535C52DE8E2"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DDR_Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E5539F6493C410CB3E291535C52DE8E2"
+                    {
+                    "Name" = "8:DDR_Helper.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:DDR_Helper.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76882D6088E34D659DA662992E8705D1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E570F2966E7A49E2A47DA806B356FCA9"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_FREQ_ACCURACY_TEST_PPM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E68039A57BCB45EBB8817AA6605B1036"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E85FF4910E29463A95647CF8DD3A393D"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_DEVICE_IDLE_CURRENT_TEST_IDLE_CURRENT_WorkOrder.jsl"
+            "TargetName" = "8:PLOT_DEVICE_IDLE_CURRENT_TEST_IDLE_CURRENT_WorkOrder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EC046FC0C648409B83E644D0017D9193"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_Workorder.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_Workorder.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F18B9891D53B427583994051E72D7683"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230ADT\\PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_TEST_EVM_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F6C95067E1D044BA812F4E1609147CFB"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\JFP2230MS\\PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_RX_TEST_SENSITIVITY_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_158AB90468074976B35802AFE42600DD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FB7C130484B045ECA5B42991950598EC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_WGMT_RX_PER_TEST_FOE.jsl"
+            "TargetName" = "8:PLOT_WIGIG_WGMT_RX_PER_TEST_FOE.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FBBA346AB2D4408CBEAB3F1E80DD3B13"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\HrP2230MS\\PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "TargetName" = "8:PLOT_WIFI_TX_SPURS_TEST_SPUR_ACTUAL_POWER_TestPlanVersion.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_E8630F62192D44C1A23EF53BDDDFD810"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FE96456DABC14A48AC7B745E91A87ECC"
+            {
+            "SourcePath" = "8:N:\\ExtendedMVT\\ProductName\\PLOT_WIGIG_IDLE_CURRENT.jsl"
+            "TargetName" = "8:PLOT_WIGIG_IDLE_CURRENT.jsl"
+            "Tag" = "8:"
+            "Folder" = "8:_3125DF34CABA4B3DB66CB3BC56759F2F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "FileType"
+        {
+        }
+        "Folder"
+        {
+            "{1525181F-901A-416C-8A58-119130FE478E}:_132EC64909A64F9AB48F2EBBCF07558F"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                }
+            }
+            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_76882D6088E34D659DA662992E8705D1"
+            {
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "Name" = "8:#1925"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:TARGETDIR"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_158AB90468074976B35802AFE42600DD"
+                    {
+                    "Name" = "8:THP2230MS"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_E1BCC2D650924C1489CBE6EB33B5AF18"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3125DF34CABA4B3DB66CB3BC56759F2F"
+                    {
+                    "Name" = "8:ProductName"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_761B574759EA4A9FBCFD91658615C116"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3568EDAA50AF4AA1A1B1048D5B551760"
+                    {
+                    "Name" = "8:JFP2230MS"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_110BFBFA1B72467F8A5F0000DFD72DD9"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_6BCD57D2C5AA47AEA76D811F9D2D1321"
+                    {
+                    "Name" = "8:HrP2230ADT"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_D269C44499504684B9E48B8411A6FD0A"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_ACFE002F929F4691A8FAAB7E6C39C86D"
+                    {
+                    "Name" = "8:HRP1216SD"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_52CC7C5E782844A68F405CFD74FFE284"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E8630F62192D44C1A23EF53BDDDFD810"
+                    {
+                    "Name" = "8:HrP2230MS"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_A72F069ECEBF4066A1C6E1B49572F238"
+                        "Folders"
+                        {
+                        }
+                    }
+                }
+            }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_B9B61F16E2DF4BC7A03BC212F1437EA3"
+            {
+            "Name" = "8:#1916"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:DesktopFolder"
+                "Folders"
+                {
+                }
+            }
+        }
+        "LaunchCondition"
+        {
+        }
+        "Locator"
+        {
+        }
+        "MsiBootstrapper"
+        {
+        "LangId" = "3:1033"
+        "RequiresElevation" = "11:FALSE"
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:ExtendedMVT"
+        "ProductCode" = "8:{E8889492-100F-4FAB-BFEC-53DC92F71CE5}"
+        "PackageCode" = "8:{87682404-8DDE-46FA-B56E-D3347A065E4E}"
+        "UpgradeCode" = "8:{5F9B8ABE-2020-477B-A018-8BB27FA8DD64}"
+        "AspNetVersion" = "8:4.0.30319.0"
+        "RestartWWWService" = "11:FALSE"
+        "RemovePreviousVersions" = "11:FALSE"
+        "DetectNewerInstalledVersion" = "11:TRUE"
+        "InstallAllUsers" = "11:FALSE"
+        "ProductVersion" = "8:1.0.0"
+        "Manufacturer" = "8:IntelOps"
+        "ARPHELPTELEPHONE" = "8:"
+        "ARPHELPLINK" = "8:"
+        "Title" = "8:ExtendedMVT"
+        "Subject" = "8:"
+        "ARPCONTACT" = "8:Shoujie He"
+        "Keywords" = "8:"
+        "ARPCOMMENTS" = "8:"
+        "ARPURLINFOABOUT" = "8:"
+        "ARPPRODUCTICON" = "8:"
+        "ARPIconIndex" = "3:0"
+        "SearchPath" = "8:"
+        "UseSystemSearchPath" = "11:TRUE"
+        "TargetPlatform" = "3:0"
+        "PreBuildEvent" = "8:"
+        "PostBuildEvent" = "8:"
+        "RunPostBuildEvent" = "3:0"
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_E2C1B5DAF794408CBFA4592883C721FF"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_13E3F4B2D6CB447CA13FB67F0F2B9AD1"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_3611A21D4ABE4DA3B1AB564265043CBF"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_692886F2AF5B42038394BDB956166058"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_03902A6DE04748A8B5BE772215CAB7B0"
+                    {
+                    "Name" = "8:Directory"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_CDF1C853525746379529F72F901D35E8"
+                            {
+                            "Name" = "8:background"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_1745A54DABFD41DF9AE35EC1AEF66D54"
+                                    {
+                                    "Name" = "8:shell"
+                                    "Condition" = "8:"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "DeleteAtUninstall" = "11:FALSE"
+                                    "Transitive" = "11:FALSE"
+                                        "Keys"
+                                        {
+                                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_A787F3D34CC44B6291E0DBB905D303B7"
+                                            {
+                                            "Name" = "8:ExtendedMVT"
+                                            "Condition" = "8:"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "DeleteAtUninstall" = "11:FALSE"
+                                            "Transitive" = "11:FALSE"
+                                                "Keys"
+                                                {
+                                                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_4A2F1EA730FE4EDA9A51F7E6FCECBA61"
+                                                    {
+                                                    "Name" = "8:command"
+                                                    "Condition" = "8:"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "DeleteAtUninstall" = "11:FALSE"
+                                                    "Transitive" = "11:FALSE"
+                                                        "Keys"
+                                                        {
+                                                        }
+                                                        "Values"
+                                                        {
+                                                            "{ADCFDA98-8FDD-45E4-90BC-E3D20B029870}:_B0F41644011D435CBB8911BFC9B76A92"
+                                                            {
+                                                            "Name" = "8:"
+                                                            "Condition" = "8:"
+                                                            "Transitive" = "11:FALSE"
+                                                            "ValueTypes" = "3:1"
+                                                            "Value" = "8:[TARGETDIR]ExtendedMVT.exe"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                                "Values"
+                                                {
+                                                }
+                                            }
+                                        }
+                                        "Values"
+                                        {
+                                        }
+                                    }
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Sequences"
+        {
+        }
+        "Shortcut"
+        {
+        }
+        "UserInterface"
+        {
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_11491389FC014D2D9DD7964BA5EADC5D"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_32FB2644B96F4BEF9D4520A9C72CDA17"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:2"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_327A05C4895641A89A475F78639DE15A"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_E1A60DF4BC55492FB98F21F2E08EE28B"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_FD2D95C1D80F44CEBE6C9E0377B413EC"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_81427A119FB64871997DDF13DE0B6842"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:2"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_491FD52CF54048FF9F9EA9D0E1ED7A1B"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_83FB024921CC43DD95147056896699E7"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_79789F6CA2E74EA9B6DA3A873B2E32BD"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_8C9322C7E4C74966979E9B7DC4C01E74"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:1"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_138C6C7DC2C640FDA0D51482143852D2"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "UpdateText"
+                            {
+                            "Name" = "8:UpdateText"
+                            "DisplayName" = "8:#1058"
+                            "Description" = "8:#1158"
+                            "Type" = "3:15"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1258"
+                            "DefaultValue" = "8:#1258"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_B03C4624A17F49F8BE139EE4C26D142E"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:1"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_219B90982AB548B6B51C4C881D1940E1"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2AFB53844E0C4B25A73489787FFEAE5C"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "InstallAllUsersVisible"
+                            {
+                            "Name" = "8:InstallAllUsersVisible"
+                            "DisplayName" = "8:#1059"
+                            "Description" = "8:#1159"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F70C9F41FF654579BD846D4BF26DB93A"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_BDF3467F122A45EBA69F73F98FD230D7"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:1"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_76206CA949CB4346BF2EE1648C7DD0D3"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_F848BAC2F0A049B99A04E9D2DF1EAE78"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            }
+        }
+        "MergeModule"
+        {
+        }
+        "ProjectOutput"
+        {
+        }
+    }
+}
