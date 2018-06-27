@@ -15,32 +15,32 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0AF6DABB9A174660BF36392B67A2B620"
+        "MsmKey" = "8:_191AD9DC409A4457AAADBA9F8D6104C8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_79DEF69E8A7B446397CD6AF162391ABB"
+        "MsmKey" = "8:_214F2E6814CB4DEF8C71A8478E488921"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9C0E59467E8B4C0593A04BB154998EB4"
+        "MsmKey" = "8:_6D50400DA7EA47CFAF46849C0A34192C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D14634F6B75C40238E4827477BE1A47F"
+        "MsmKey" = "8:_C606A2DFD562453197B34614AD6286B7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_79DEF69E8A7B446397CD6AF162391ABB"
+        "OwnerKey" = "8:_C606A2DFD562453197B34614AD6286B7"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -138,9 +138,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0AF6DABB9A174660BF36392B67A2B620"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_191AD9DC409A4457AAADBA9F8D6104C8"
             {
-            "SourcePath" = "8:N:\\Clocks\\Oxygen-Icons.org-Oxygen-Apps-clock.ico"
+            "SourcePath" = "8:..\\..\\Direct-Data-Management\\WorldClocks\\bin\\Release\\Oxygen-Icons.org-Oxygen-Apps-clock.ico"
             "TargetName" = "8:Oxygen-Icons.org-Oxygen-Apps-clock.ico"
             "Tag" = "8:"
             "Folder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
@@ -158,40 +158,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_79DEF69E8A7B446397CD6AF162391ABB"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_214F2E6814CB4DEF8C71A8478E488921"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:WorldClocks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_79DEF69E8A7B446397CD6AF162391ABB"
-                    {
-                    "Name" = "8:WorldClocks.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:N:\\Clocks\\WorldClocks.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9C0E59467E8B4C0593A04BB154998EB4"
-            {
-            "SourcePath" = "8:N:\\Clocks\\WorldClocks.exe.config"
+            "SourcePath" = "8:..\\..\\Direct-Data-Management\\WorldClocks\\bin\\Release\\WorldClocks.exe.config"
             "TargetName" = "8:WorldClocks.exe.config"
             "Tag" = "8:"
             "Folder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
@@ -209,10 +178,41 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D14634F6B75C40238E4827477BE1A47F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6D50400DA7EA47CFAF46849C0A34192C"
             {
-            "SourcePath" = "8:N:\\Clocks\\WorldClocks.pdb"
+            "SourcePath" = "8:..\\..\\Direct-Data-Management\\WorldClocks\\bin\\Release\\WorldClocks.pdb"
             "TargetName" = "8:WorldClocks.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C606A2DFD562453197B34614AD6286B7"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:WorldClocks, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_C606A2DFD562453197B34614AD6286B7"
+                    {
+                    "Name" = "8:WorldClocks.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Direct-Data-Management\\WorldClocks\\bin\\Release\\WorldClocks.exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
             "Condition" = "8:"
@@ -406,7 +406,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_256381C43BC849B886308884DAE57396"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_C9C949F6DA894AFB8BA03A148F050430"
             {
             "Name" = "8:Clocks"
             "Arguments" = "8:"
@@ -414,10 +414,10 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_79DEF69E8A7B446397CD6AF162391ABB"
+            "Target" = "8:_C606A2DFD562453197B34614AD6286B7"
             "Folder" = "8:_B4C9A10809664EE592E668AE5232ED30"
             "WorkingFolder" = "8:_31C14ABF1F9947929ED60889ED2A9061"
-            "Icon" = "8:_0AF6DABB9A174660BF36392B67A2B620"
+            "Icon" = "8:_191AD9DC409A4457AAADBA9F8D6104C8"
             "Feature" = "8:"
             }
         }
